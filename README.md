@@ -16,7 +16,7 @@ I build backend systems and AI pipelines, and I turn messy operational data into
 ## 💼 Experience
 
 **Backend Software Engineer & Sprint Lead** — *Trivera Labs (MSc Academic Practicum)*
-`Feb 2026 – May 2026`
+`Jan 2026 – Mar 2026`
 - Built a production **RAG pipeline**: FastAPI backend, hybrid **BM25 + ChromaDB** vector search, **RRF ranking**, **Qwen2.5** served via Ollama, and **Kokoro TTS** — fully offline, no external API calls.
 - Delivered to an external client (**NexusGuard**) across 3 Agile sprints as sprint lead on a 9-person team.
 
